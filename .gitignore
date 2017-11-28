@@ -2,3 +2,6 @@
 *.pdf
 input/
 output_images/
+dataset/
+dataset_tmp/
+mglearn/
